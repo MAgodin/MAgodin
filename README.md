@@ -22,7 +22,7 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
   <!-- Liste des compétences techniques -->
   <div style="flex: 1; min-width: 300px;">
     <ul>
-      <li><strong>Langages de Programmation et Technologies :</strong>
+      <li><strong>Langages de Programmation et Technologies utilsée :</strong>
         <ul>
           <li>SQL</li>
           <li>PHP</li>
@@ -30,6 +30,8 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
           <li>Angular</li>
           <li>Connaissances de base en Java, C, C#</li>
         </ul>
+      </li>
+  <li><strong>Les languages que vous trouverai sur mon github :</strong>
   <!-- Widget GitHub -->
   <div style="flex: 1; text-align: right; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgodin&layout=compact" alt="Marc-André Godin's GitHub Language" style="max-width: 100%;">
