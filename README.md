@@ -3,8 +3,10 @@
 <h3 align="center">🎓 Alternant en Développement Informatique | Passionné de Nouvelles Technologies</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76632956/135834664-12a8c8a6-daa1-4d23-9a6d-c9f4f1e3c4bf.gif" width="400" alt="Coding Animation">
+  <!-- Remplace le lien ci-dessous par un lien valide pour ton GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="250" alt="Coding GIF">
 </p>
+
 
 ---
 
@@ -16,27 +18,38 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
 
 ## 🛠️ Compétences Techniques
 
-<ul>
-  <li><strong>Langages de Programmation et Technologies :</strong>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Liste des compétences techniques -->
+  <div style="flex: 1;">
     <ul>
-      <li>SQL</li>
-      <li>PHP</li>
-      <li>HTML & CSS</li>
-      <li>Angular</li>
-      <li>Connaissances de base en Java, C, C#</li>
+      <li><strong>Langages de Programmation et Technologies :</strong>
+        <ul>
+          <li>SQL</li>
+          <li>PHP</li>
+          <li>HTML & CSS</li>
+          <li>Angular</li>
+          <li>Connaissances de base en Java, C, C#</li>
+        </ul>
+      </li>
+      <li><strong>Outils et Environnements de Développement :</strong>
+        <ul>
+          <li>Visual Studio Code</li>
+          <li>Git/GitHub</li>
+          <li>PHPMyAdmin</li>
+          <li>Visual Studio</li>
+          <li>Linux</li>
+          <li>Windows</li>
+        </ul>
+      </li>
     </ul>
-  </li>
-  <li><strong>Outils et Environnements de Développement :</strong>
-    <ul>
-      <li>Visual Studio Code</li>
-      <li>Git/GitHub</li>
-      <li>PHPMyAdmin</li>
-      <li>Visual Studio</li>
-      <li>Linux</li>
-      <li>Windows</li>
-    </ul>
-  </li>
-</ul>
+  </div>
+
+  <!-- Widget GitHub -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgodin&hide_progress=false" alt="Marc-André Godin's GitHub Language" style="max-width: 100%;">
+  </div>
+</div>
+
 
 ---
 
@@ -88,3 +101,12 @@ En dehors de la programmation et de l'informatique, j'aime :
 <p align="center">
   Merci de visiter mon profil GitHub ! N'hésitez pas à me contacter si vous avez des opportunités de projet intéressantes ou si vous souhaitez discuter de nouvelles technologies. 🚀
 </p>
+
+---
+
+<!-- Widgets Dynamiques -->
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAgodin&show_icons=true&theme=radical" alt="Marc-André Godin's GitHub stats" style="margin-right: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAgodin&theme=radical" alt="Marc-André Godin's GitHub Streak">
+</div>
+
