@@ -18,9 +18,9 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
 
 ## 🛠️ Compétences Techniques
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
   <!-- Liste des compétences techniques -->
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 300px;">
     <ul>
       <li><strong>Langages de Programmation et Technologies :</strong>
         <ul>
@@ -30,6 +30,10 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
           <li>Angular</li>
           <li>Connaissances de base en Java, C, C#</li>
         </ul>
+  <!-- Widget GitHub -->
+  <div style="flex: 1; text-align: right; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgodin&hide_progress=false" alt="Marc-André Godin's GitHub Language" style="max-width: 100%;">
+  </div>
       </li>
       <li><strong>Outils et Environnements de Développement :</strong>
         <ul>
@@ -42,11 +46,6 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
         </ul>
       </li>
     </ul>
-  </div>
-
-  <!-- Widget GitHub -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgodin&hide_progress=false" alt="Marc-André Godin's GitHub Language" style="max-width: 100%;">
   </div>
 </div>
 
@@ -105,8 +104,9 @@ En dehors de la programmation et de l'informatique, j'aime :
 ---
 
 <!-- Widgets Dynamiques -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAgodin&show_icons=true&theme=radical" alt="Marc-André Godin's GitHub stats" style="margin-right: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAgodin&theme=radical" alt="Marc-André Godin's GitHub Streak">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAgodin&show_icons=true&theme=radical" alt="Marc-André Godin's GitHub stats" style="margin-right: 20px; min-width: 300px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAgodin&theme=radical" alt="Marc-André Godin's GitHub Streak" style="min-width: 300px;">
 </div>
+
 
