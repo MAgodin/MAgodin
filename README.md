@@ -31,7 +31,7 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
           <li>Connaissances de base en Java, C, C#</li>
         </ul>
       </li>
-  <li><strong>Les languages que vous trouverai sur mon github :</strong>
+  <li><strong>Les langages que vous trouverez sur mon GitHub:</strong>
   <!-- Widget GitHub -->
   <div style="flex: 1; text-align: right; min-width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAgodin&layout=compact" alt="Marc-André Godin's GitHub Language" style="max-width: 100%;">
