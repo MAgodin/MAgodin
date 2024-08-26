@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bonjour, je suis Marc-André Godin</h1>
 
-<h3 align="center">🎓 Alternant en Développement Informatique | Passionné de Nouvelles Technologies</h3>
+<h3 align="center">🎓 Alternant en Développement Informatique</h3>
 
 <p align="center">
   <!-- Remplace le lien ci-dessous par un lien valide pour ton GIF -->
