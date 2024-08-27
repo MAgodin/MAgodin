@@ -51,17 +51,6 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
   </div>
 </div>
 
-
----
-
-## 🌱 Actuellement
-
-<ul>
-  <li>💼 Alternant développeur informatique chez <strong>Vert-Marine</strong></li>
-  <li>📚 Étudiant au CESI pour devenir Développeur Informatique</li>
-  <li>🎯 Intéressé par la cybersécurité et cherchant à me spécialiser dans ce domaine</li>
-</ul>
-
 ---
 
 ## 📫 Me Contacter
@@ -77,17 +66,6 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
 
 ---
 
-## 🌍 Intérêts Personnels
-
-En dehors de la programmation et de l'informatique, j'aime :
-
-<ul>
-  <li>Voyager et découvrir de nouvelles cultures</li>
-  <li>Faire du sport pour rester actif</li>
-  <li>Explorer les innovations technologiques et apprendre sur la cybersécurité</li>
-</ul>
-
----
 
 ## 🚀 Objectifs à Long Terme
 
