@@ -53,6 +53,16 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
 
 ---
 
+## 🚀 Objectifs à Long Terme
+
+<ul>
+  <li>Développer mes compétences en cybersécurité</li>
+  <li>Contribuer à des projets open source</li>
+  <li>Travailler sur des projets internationaux, combinant mes passions pour la technologie et les voyages</li>
+</ul>
+
+---
+
 ## 📫 Me Contacter
 
 <p>
@@ -63,17 +73,6 @@ Je suis Marc-André, un passionné de nouvelles technologies et de développemen
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
-
----
-
-
-## 🚀 Objectifs à Long Terme
-
-<ul>
-  <li>Développer mes compétences en cybersécurité</li>
-  <li>Contribuer à des projets open source</li>
-  <li>Travailler sur des projets internationaux, combinant mes passions pour la technologie et les voyages</li>
-</ul>
 
 ---
 
